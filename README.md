@@ -82,6 +82,6 @@ This is an academic project for learning purposes and is **not for commercial re
 
 ## 🔗 Connect
 
-If you liked this, check out more projects or connect with me on [LinkedIn](https://www.linkedin.com).
+If you liked this, check out more projects or connect with me on [LinkedIn](www.linkedin.com/in/reuben-d-costa-681b70289).
 
 
